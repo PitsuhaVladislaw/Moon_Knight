@@ -1,0 +1,50 @@
+.header-menu {
+    height: 780px;
+    padding: 20px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 0 auto;
+    width: 1144px;
+    height: 161px;
+}
+
+.logo_menu {
+    background-color: black;
+    display: grid;
+    grid-template-rows: 50px;
+    margin: 0 auto;
+    border: 5px solid red;
+}
+
+.description {
+    margin: 0 auto;
+    width: 1144px;
+    height: 451px;
+}
+
+.menu_navigation {
+    margin: 0 auto;
+    width: 1243px;
+    height: 668px;
+}
+
+.img_png {
+    height: 147px;
+    width: 140px;
+}
+
+.main_text {
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.6em;
+    color: white;
+}
